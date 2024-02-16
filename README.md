@@ -26,7 +26,7 @@ The computer will randomly choose its move.
 The outcome of the game will be displayed, and scores will be updated accordingly.
 
 Contributing
-Contributions are welcome! Please follow these steps:
+Contributions are welcome!
 
 
 
